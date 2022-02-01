@@ -1,0 +1,5 @@
+*.txt # if *.txt input at .gitignore file then it will all .txt ignoring entire directory
+
+*.jar # same as .jar file and also anothers file format treat like that.
+
+
